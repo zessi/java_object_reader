@@ -1,0 +1,3 @@
+1- TODO Attempt to add the ability to functionally and dynamically handle circular references. Ideally through a passable functional interface.
+2- TODO Write proper unit tests for the reading part.
+3- TODO Standardize some sort of specification?
